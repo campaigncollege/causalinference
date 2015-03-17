@@ -24,7 +24,8 @@ Coarsened Exact Matching](http://zmjones.com/static/causal-inference/iacus-pa-20
  - Rosenbaum and Rubin, *American Statistician*, 1985, "[Constructing a Control Group Using Multivariate Matched Sampling Methods that Incorporate the Propensity Score](http://www.jstor.org/discover/10.2307/2683903?uid=3739256&uid=2129&uid=2&uid=70&uid=4&sid=21103165339397)"
  - Imbens, *Review of Economics and Statistics*, 2004, "[Nonparametric Estimation of Average Treatment Effects under Exogeneity: A Review](http://zmjones.com/static/causal-inference/imbens-res-2004.pdf)"
  - Rosenbaum, *Journal of the American Statistical Association*, 1989, "[Optimal Matching for Observational Studies](http://zmjones.com/static/causal-inference/rosenbaum-jasa-1989.pdf)"
- - Smith and Todd, *Journal of Econometrics*, "[Does Matching Overcome LaLonde's Critique of Nonexperimental Estimators?](http://ideas.repec.org/p/uwo/hcuwoc/20035.html)"
+ - Smith and Todd, *Journal of Econometrics*, 2003, "[Does Matching Overcome LaLonde's Critique of Nonexperimental Estimators?](http://ideas.repec.org/p/uwo/hcuwoc/20035.html)"
+ - Hainmuller, *Political Analysis*, 2012, "[Entropy Balancing for Causal Effects: A Multivariate Reweighting Method to Produce Balanced Samples in Observational Studies](http://pan.oxfordjournals.org/content/20/1/25.full.pdf)"
 
 ### Applications
  - Lyall, *American Political Science Review*, 2011, "[Are Coethnics More Effective Counterinsurgents? Evidence from the Second Chechen War](http://zmjones.com/static/causal-inference/lyall-apsr-2011.pdf)"
